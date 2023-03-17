@@ -47,4 +47,4 @@
 <p align="center">
   <img src="../Assets/detailed_100D_RNA_velocity.png" alt="drawing" width="1000"/>
 </p>
-<h1 align="center">Figure.A.6: Detailed Velocity Results of all models on 100-D RNAsc dataset</h1>
+<h1 align="center">Figure.A.6: Detailed Velocity Results of DMSB on 100-D RNAsc dataset</h1>
