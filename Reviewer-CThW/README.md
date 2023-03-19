@@ -1,6 +1,6 @@
 # Additional Figures for Reviewer CThW
 <p align="center">
-  <img src="../Assets/MIOFlow_petal_retuned.png" alt="drawing" width="1000"/>
+  <img src="../Assets/MIOFlow_petal_retuned_new.png" alt="drawing" width="1000"/>
 </p>
 <h1 align="center">Figure.A.1: Fine-tuned MIOFlow on Petal dataset</h1>
 
